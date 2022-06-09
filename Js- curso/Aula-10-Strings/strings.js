@@ -14,6 +14,6 @@ console.log(string.search(/[r]/))
 
 console.log(string.length)
 
-console.log(string.split(" "))
+console.log(string.split("r"))
 
 console.log(string.toUpperCase())

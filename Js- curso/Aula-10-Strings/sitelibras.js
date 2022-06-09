@@ -1,4 +1,4 @@
-define([
+require([ //Código está errado pois estava treinando apenas
         '../Aula-07-Operadores Aritméticos/Aritmético'
 ],(ari)=>{
         function getRandomInt(min, max) {
